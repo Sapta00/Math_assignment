@@ -42,3 +42,4 @@ label=dist_name.capitalize())
  plt.title(f"{dist_name.capitalize()} Distribution")
  plt.legend()
  plt.show()
+return probs
